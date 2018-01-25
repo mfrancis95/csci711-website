@@ -29,3 +29,11 @@ Properties of the cyan ball:
 | scale     | 4.6 | 4.6 | 4.6 |
 | rotate    | 0.0 | 0.0 | 0.0 |
 | translate | 2.1 | 0.5 | 1.2 |
+
+Properties of the floor:
+
+| Property  |   X   |  Y   |  Z   |
+| --------- | ----- | ---- | ---- |
+| scale     |  0.7  | 10.0 | 10.0 |
+| rotate    | -80.0 | 0.0  | 5.3  |
+| translate | 0.65  | 0.0  | 0.0  |
