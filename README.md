@@ -50,3 +50,14 @@ Real Coordinates of the floor:
 | 6      | -5.0  |  0.0 | -0.02 |
 | 7      |  5.0  |  0.0 | -0.06 |
 | 8      | -5.0  |  0.0 | -0.06 |
+
+---
+### Checkpoint 2
+
+#### Original Scene
+[checkpoint2]: images/checkpoint2.png
+![Checkpoint 2 Screenshot][checkpoint2]
+
+#### Scene with extra credit cylinder object
+[checkpoint2_extra]: images/checkpoint2_extra.png
+![Checkpoint 2 Extra Credit Screenshot][checkpoint2_extra]
