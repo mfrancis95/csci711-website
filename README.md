@@ -21,6 +21,7 @@
 
 [checkpoint2_extra_angle3]: images/checkpoint2_extra_cam_angle3.png
 ![Checkpoint 2 Extra Credit Screenshot3][checkpoint2_extra_angle3]
+
 ---
 
 ### Checkpoint 1
