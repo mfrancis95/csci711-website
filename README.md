@@ -8,10 +8,19 @@
 [checkpoint2]: images/checkpoint2.png
 ![Checkpoint 2 Screenshot][checkpoint2]
 
-#### Scene with extra credit cylinder object
+#### Extra credit: Scene with cylinder object
 [checkpoint2_extra]: images/checkpoint2_extra.png
 ![Checkpoint 2 Extra Credit Screenshot][checkpoint2_extra]
 
+#### Extra credit: Scene with different camera angles
+[checkpoint2_extra_angle1]: images/checkpoint2_extra_cam_angle1.png
+![Checkpoint 2 Extra Credit Screenshot1][checkpoint2_extra_angle1]
+
+[checkpoint2_extra_angle2]: images/checkpoint2_extra_cam_angle2.png
+![Checkpoint 2 Extra Credit Screenshot2][checkpoint2_extra_angle2]
+
+[checkpoint2_extra_angle3]: images/checkpoint2_extra_cam_angle3.png
+![Checkpoint 2 Extra Credit Screenshot3][checkpoint2_extra_angle3]
 ---
 
 ### Checkpoint 1
