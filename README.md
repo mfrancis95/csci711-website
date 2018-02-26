@@ -1,6 +1,26 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+### Checkpoint 3
+
+#### Original Scene with Phong Shading
+[checkpoint3_Phong]: images/checkpoint3_Phong.PNG
+![Checkpoint 3 Screenshot][checkpoint3_Phong]
+
+#### Extra credit: Scene with Blinn Phong Shading
+[checkpoint3_extraBlinnPhong]: images/checkpoint3_extraBlinnPhong.PNG
+![Checkpoint 3 Extra Credit Screenshot1][checkpoint3_extraBlinnPhong]
+
+#### Extra credit: Multiple Light Sources
+[checkpoint3_extraMultipleLight]: images/checkpoint3_extraMultipleLight.PNG
+![Checkpoint 3 Extra Credit Screenshot2][checkpoint3_extraMultipleLight]
+
+#### Extra credit: Scene with cylinder object
+[checkpoint3_cylinder]: images/checkpoint3_cylinder.PNG
+![Checkpoint 3 Extra Credit Screenshot][checkpoint3_cylinder]
+
+---
+
 
 ### Checkpoint 2
 
