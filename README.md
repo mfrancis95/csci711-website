@@ -1,6 +1,13 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+
+### Checkpoint 4
+
+#### Original Scene with Checkerboard Pattern 
+[checkpoint4_Checkerboard]: images/checkpoint4_checkerboard.png
+![Checkpoint 4 Screenshot][checkpoint4_Checkerboard]
+
 ### Checkpoint 3
 
 #### Original Scene with Phong Shading
