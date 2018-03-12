@@ -2,7 +2,7 @@
 ## By Mitchell Poon and Michael Francis
 ---
 
-### Checkpoint 4
+### Checkpoint 4 - Texture Mapping
 
 #### Original Scene with Checkerboard Pattern 
 [checkpoint4_Checkerboard]: images/checkpoint4_checkerboard.png
@@ -16,7 +16,7 @@
 [checkpoint4_Shape_Texture]: images/checkpoint4_shape_texture.png
 ![Checkpoint 4 Extra Credit Shapes Screenshot][checkpoint4_Shape_Texture]
 
-### Checkpoint 3
+### Checkpoint 3 - Reflection / BRDFs
 
 #### Original Scene with Phong Shading
 [checkpoint3_Phong]: images/checkpoint3_Phong.PNG
@@ -37,7 +37,7 @@
 ---
 
 
-### Checkpoint 2
+### Checkpoint 2 - Raytracing Framework
 
 #### Original Scene
 [checkpoint2]: images/checkpoint2.png
@@ -59,7 +59,7 @@
 
 ---
 
-### Checkpoint 1
+### Checkpoint 1 - Setting the Scene
 
 [checkpoint1]: images/checkpoint1.png
 ![Checkpoint 1 Screenshot][checkpoint1]
