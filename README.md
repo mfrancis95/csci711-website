@@ -8,7 +8,7 @@
 [checkpoint4_Checkerboard]: images/checkpoint4_checkerboard.png
 ![Checkpoint 4 Screenshot][checkpoint4_Checkerboard]
 
-#### Extra credt: Texture loaded from image
+#### Extra credt: Brick Texture loaded from image
 [checkpoint4_Image]: images/checkpoint4_brick_texture.png
 ![Checkpoint 4 Extra Credit Screenshot][checkpoint4_Image]
 
