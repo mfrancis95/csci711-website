@@ -9,7 +9,7 @@
 ![Checkpoint 4 Screenshot][checkpoint4_Checkerboard]
 
 #### Extra credit: Brick Texture Loaded from Image
-[checkpoint4_Brick_Texture: images/checkpoint4_brick_texture.png
+[checkpoint4_Brick_Texture]: images/checkpoint4_brick_texture.png
 ![Checkpoint 4 Extra Credit Brick Screenshot][checkpoint4_Brick_Texture]
 
 #### Extra credit: Precedural Textures Applied to Different Objects
