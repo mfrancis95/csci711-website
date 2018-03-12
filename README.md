@@ -8,13 +8,13 @@
 [checkpoint4_Checkerboard]: images/checkpoint4_checkerboard.png
 ![Checkpoint 4 Screenshot][checkpoint4_Checkerboard]
 
-#### Extra credit: Brick Texture loaded from image
-[checkpoint4_Image]: images/checkpoint4_brick_texture.png
-![Checkpoint 4 Extra Credit Screenshot][checkpoint4_Image]
+#### Extra credit: Brick Texture Loaded from Image
+[checkpoint4_Brick_Texture: images/checkpoint4_brick_texture.png
+![Checkpoint 4 Extra Credit Brick Screenshot][checkpoint4_Image]
 
-#### Extra credit: Texture Mapping Applied to Different Shapes
-[checkpoint4_Image]: images/checkpoint4_shape_texture.png
-![Checkpoint 4 Extra Credit Screenshot][checkpoint4_Image]
+#### Extra credit: Precedural Textures Applied to Different Objects
+[checkpoint4_Shape_Texture]: images/checkpoint4_shape_texture.png
+![Checkpoint 4 Extra Credit Shapes Screenshot][checkpoint4_Image]
 
 ### Checkpoint 3
 
