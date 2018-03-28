@@ -1,6 +1,11 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+### Checkpoint 5 - Reflection 
+
+#### Original Scene with Reflection
+[checkpoint5_Reflection]: images/checkpoint5_reflection.png
+![Checkpoint 5 Screenshot][checkpoint5_Reflection]
 
 ### Checkpoint 4 - Texture Mapping
 
