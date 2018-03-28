@@ -7,7 +7,7 @@
 [checkpoint5_Reflection]: images/checkpoint5_reflection.png
 ![Checkpoint 5 Reflection Screenshot][checkpoint5_Reflection]
 
-#### Original Scene with 2 Mirrored Spheres
+#### Scene with 2 Mirrored Spheres
 [checkpoint5_Mirror_Sphere]: images/checkpoint5_mirror.png
 ![Checkpoint 5 Mirror Screenshot][checkpoint5_Mirror_Sphere]
 
