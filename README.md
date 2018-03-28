@@ -12,8 +12,8 @@
 ![Checkpoint 5 Mirror Screenshot][checkpoint5_Mirror_Sphere]
 
 #### Scene with Lower Reflection Level
-[checkpoint5_Low Reflection_Sphere]: images/checkpoint5_reflect_diff.png
-![Checkpoint 5 Low Reflection Screenshot][checkpoint5_Low Reflection]
+[checkpoint5_Low_Reflection]: images/checkpoint5_reflect_diff.png
+![Checkpoint 5 Low Reflection Screenshot][checkpoint5_Low_Reflection]
 
 ### Checkpoint 4 - Texture Mapping
 
