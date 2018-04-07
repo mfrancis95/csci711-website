@@ -1,6 +1,16 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+### Checkpoint 6 - Refraction/Translucency 
+
+#### Original Scene with Refractive Sphere
+[checkpoint6_Refraction]: images/checkpoint6_refractive_scene.png
+![Checkpoint 6 Refraction Screenshot][checkpoint6_Refraction]
+
+#### Extra Credit - Scene with Adaptive Shadows and kT = 0.80
+[checkpoint6_Extra_Credt]: images/checkpoint6_extra_credit.png
+![Checkpoint 6 Extra_Credit Screenshot][checkpoint6_Extra_Credt]
+
 ### Checkpoint 5 - Reflection 
 
 #### Original Scene with Reflection
