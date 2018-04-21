@@ -1,6 +1,16 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+### Advanced Assignment 4 - Open Shading Language
+
+#### Tutorial Reproduction
+[advCheckpoint4_tut]: images/advChkpntTut.png
+![advCheckpoint4_Screenshot][advCheckpoint4_tut]
+
+#### Marble Shader Applied to Sphere
+[advCheckpoint4_cust]: images/advChkpntCust.png
+![advCheckpoint4_cust_Screenshot][advCheckpoint4_cust]
+
 ### Checkpoint 6 - Refraction/Translucency 
 
 #### Original Scene with Refractive Sphere
