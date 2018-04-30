@@ -4,17 +4,29 @@
 
 ### Checkpoint 7 - Tone Reproduction 
 
-#### Ward wtih 1 Nit (LMax):
+#### Ward with 1 nits (LMax):
 [checkpoint7_ward_1]: images/checkpoint7_ward_one.png
 ![checkpoint7_ward_1_SS][checkpoint7_ward_1]
 
-#### Ward wtih 1000 Nit (LMax):
+#### Ward with 1000 nits (LMax):
 [checkpoint7_ward_1000]: images/checkpoint7_ward_thousand.png
 ![checkpoint7_ward_1000_SS][checkpoint7_ward_1000]
 
-#### Ward wtih 10000 Nit (LMax):
+#### Ward with 10000 nits (LMax):
 [checkpoint7_ward_10000]: images/checkpoint7_ward_tenThousand.png
 ![checkpoint7_ward_10000_ss][checkpoint7_ward_10000]
+
+#### Reinhard with 1 nits (LMax):
+[checkpoint7_Reinhard_1]: images/checkpoint7_reinhard_one.png
+![checkpoint7_Reinhard_1_SS][checkpoint7_Reinhard_1]
+
+#### Reinhard with 1000 nits (LMax):
+[checkpoint7_Reinhard_1000]: images/checkpoint7_reinhard_thousand.png
+![checkpoint7_Reinhard_1000_SS][checkpoint7_Reinhard_1000]
+
+#### Reinhard with 10000 nits (LMax):
+[checkpoint7_Reinhard_10000]: images/checkpoint7_reinhard_tenThousand.png
+![checkpoint7_Reinhard_10000_ss][checkpoint7_Reinhard_10000]t
 
 ### Advanced Assignment 4 - Open Shading Language
 
