@@ -1,6 +1,21 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+
+### Checkpoint 7 - Tone Reproduction 
+
+#### Ward wtih 1 Nit (LMax):
+[checkpoint7_ward_1]: images/checkpoint7_ward_one.png
+![checkpoint7_ward_1_SS][checkpoint7_ward_1]
+
+#### Ward wtih 1000 Nit (LMax):
+[checkpoint7_ward_1000]: images/checkpoint7_ward_thousand.png
+![checkpoint7_ward_1000_SS][checkpoint7_ward_1000]
+
+#### Ward wtih 10000 Nit (LMax):
+[checkpoint7_ward_10000]: images/checkpoint7_ward_tenThousand.png
+![checkpoint7_ward_10000_ss][checkpoint7_ward_10000]
+
 ### Advanced Assignment 4 - Open Shading Language
 
 #### Tutorial Reproduction
