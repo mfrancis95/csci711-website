@@ -28,7 +28,7 @@
 [checkpoint7_Reinhard_10000]: images/checkpoint7_reinhard_tenThousand.png
 ![checkpoint7_Reinhard_10000_ss][checkpoint7_Reinhard_10000]
 
-#### Extra Reinhard with Constant Value (1000 nits):
+#### Extra Credit - Reinhard with Constant Value (1000 nits):
 [checkpoint7_extra_const]: images/checkpoint7_extra_const.png
 ![checkpoint7_extra_const_SS][checkpoint7_extra_const]
 
