@@ -2,6 +2,16 @@
 ## By Mitchell Poon and Michael Francis
 ---
 
+### Advanced Assignment 5 - Tone Reproduction
+
+#### Adaptive Logarithmic Mapping with bias = 0.85
+[checkpoint_adaptive1]: images/checkpoint_adaptive1.png
+![checkpoint_adaptive1_ss][checkpoint_adaptive1]
+
+#### Adaptive Logarithmic Mapping with bias = 0.45
+[checkpoint_adaptive2]: images/checkpoint_adaptive2.png
+![checkpoint_adaptive2_ss][checkpoint_adaptive2]
+
 ### Checkpoint 7 - Tone Reproduction 
 
 #### Ward with 1 nits (LMax):
