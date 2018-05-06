@@ -1,6 +1,9 @@
 # CSCI711 Projects
 ## By Mitchell Poon and Michael Francis
 ---
+### Final Whitted Reproduction Scene
+[checkpoint_final]: images/whitted.png
+![checkpoint_final_ss][checkpoint_final]
 
 ### Advanced Assignment 5 - Tone Reproduction
 
